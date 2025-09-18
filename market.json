@@ -4,31 +4,36 @@
       "name" : "MP 26",
       "pic" : "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp26.jpg",
       "purclink" : "null",
-      "price" : "null"
+      "price" : "null",
+      "status" "soon"
     },
     {
       "name" : "MP 25+",
       "pic" : "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp25.png",
       "purclink" :"https://mellivoranetwork.com/FIFA/FIFAMP25/Index",
-      "price" : "300"
+      "price" : "300",
+      "status" : ""
     },
     {
       "name" : "MP 24",
       "pic" : "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp24.png",
       "purclink" :"https://mellivoranetwork.com/FIFA/FIFAMP24/Index",
-      "price" : "250"
+      "price" : "250",
+      "status" : ""
     },
     {
       "name" : "MP 23",
       "pic" : "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp23.png",
       "purclink" :"https://mellivoranetwork.com/FIFA/FIFADefault/Index",
-      "price" : "50"
+      "price" : "50",
+      "status" : ""
     },
     {
       "name" : "MP 21",
       "pic" : "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp21.png",
       "purclink" :"https://www.mediafire.com/file/19i6l7ukggb9409/Mellivora_Patch_v2.rar/file",
-      "price" : "Bedava"
+      "price" : "Bedava",
+      "status" : "BEDAVA"
     }
   ]
 }
