@@ -7,20 +7,20 @@
     },
     {
       "name": "MP 25+",
-      "image": "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/fc25.png",
+      "image": "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp25.jpg",
       "status": "active",
       "gameId": 4
     },
     {
       "name": "MP 24",
-      "image": "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/fc24.png",
+      "image": "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp24.jpg",
       "url": "https://mellivoranetwork.com/FIFA/FIFAMP24/Index",
       "status": "active",
       "gameId": 2
     },
     {
       "name": "MP 23",
-      "image": "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/fc23.png",
+      "image": "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp23.jpg",
       "url": "https://mellivoranetwork.com/FIFA/FIFADefault/Index",
       "status": "active",
       "gameId": 1
