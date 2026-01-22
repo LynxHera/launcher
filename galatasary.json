@@ -18,21 +18,21 @@
         "league": "Süper Lig",
         "date": "01.02.2026",
         "hour": "02:00",
-        "livelink" : ""
+        "livelink" : "https://www.mackolik.com/mac/galatasaray-vs-kayserispor/karsilastirma/94j5digeoauyg5uk0zjepfnkk"
     },
     {
         "versus": "İstanbulspor",
         "league": "Türkiye Kupası",
         "date": "03.02.2026",
         "hour": "02:00",
-        "livelink" : ""
+        "livelink" : "https://www.mackolik.com/mac/galatasaray-vs-istanbulspor/karsilastirma/bip96xf9pgmr44mszao4cyn84"
     },
     {
         "versus": "Çaykur Rizespor",
         "league": "Süper Lig",
         "date": "08.02.2026",
         "hour": "02:00",
-        "livelink" : ""
+        "livelink" : "https://www.mackolik.com/mac/%C3%A7aykur-rizespor-vs-galatasaray/karsilastirma/979zuo0j0zqbds8cbmytzam8k"
     },
     {
         "versus": "Eyüpspor",
@@ -134,3 +134,4 @@
     }
 
 ]
+
