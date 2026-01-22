@@ -1,128 +1,136 @@
 [
     {
-        "versus": "Gaziantep FK",
-        "league": "Süper Lig",
-        "date": "17.01.2026",
-        "hour": "20:00"
-    },
-    {
-        "versus": "Atlético Madrid",
-        "league": "UEFA Şampiyonlar Ligi",
-        "date": "21.01.2026",
-        "hour": "20:45"
-    },
-    {
         "versus": "Fatih Karagümrük",
         "league": "Süper Lig",
         "date": "24.01.2026",
-        "hour": "20:00"
+        "hour": "20:00",
+        "livelink": "https://www.mackolik.com/mac/fatih-karag%C3%BCmr%C3%BCk-vs-galatasaray/karsilastirma/905n8izj2kk8g6nfxtj74y6ms"
     },
     {
         "versus": "Manchester City",
         "league": "UEFA Şampiyonlar Ligi",
         "date": "28.01.2026",
-        "hour": "23:00"
+        "hour": "23:00",
+        "livelink": "https://www.mackolik.com/mac/manchester-city-vs-galatasaray/karsilastirma/66dpqixoih0mta26qwlp8sob8" 
     },
     {
         "versus": "Kayserispor",
         "league": "Süper Lig",
         "date": "01.02.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "İstanbulspor",
         "league": "Türkiye Kupası",
         "date": "03.02.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "Çaykur Rizespor",
         "league": "Süper Lig",
         "date": "08.02.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "Eyüpspor",
         "league": "Süper Lig",
         "date": "15.02.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "Konyaspor",
         "league": "Süper Lig",
         "date": "22.02.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "Alanyaspor",
         "league": "Süper Lig",
         "date": "01.03.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "Alanyaspor",
         "league": "Türkiye Kupası",
         "date": "03.03.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "Beşiktaş JK",
         "league": "Süper Lig",
         "date": "08.03.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "İstanbul Başakşehir FK",
         "league": "Süper Lig",
         "date": "15.03.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "Göztepe",
         "league": "Süper Lig",
         "date": "22.03.2026",
-        "hour": "02:00"
+        "hour": "02:00",
+        "livelink" : ""
     },
     {
         "versus": "Trabzonspor",
         "league": "Süper Lig",
         "date": "05.04.2026",
-        "hour": "01:00"
+        "hour": "01:00",
+        "livelink" : ""
     },
     {
         "versus": "Kocaelispor",
         "league": "Süper Lig",
         "date": "12.04.2026",
-        "hour": "01:00"
+        "hour": "01:00",
+        "livelink" : ""
     },
     {
         "versus": "Gençlerbirliği SK",
         "league": "Süper Lig",
         "date": "19.04.2026",
-        "hour": "01:00"
+        "hour": "01:00",
+        "livelink" : ""
     },
     {
         "versus": "Fenerbahçe SK",
         "league": "Süper Lig",
         "date": "26.04.2026",
-        "hour": "01:00"
+        "hour": "01:00",
+        "livelink" : ""
     },
     {
         "versus": "Samsunspor",
         "league": "Süper Lig",
         "date": "03.05.2026",
-        "hour": "01:00"
+        "hour": "01:00",
+        "livelink" : ""
     },
     {
         "versus": "Antalyaspor",
         "league": "Süper Lig",
         "date": "10.05.2026",
-        "hour": "01:00"
+        "hour": "01:00",
+        "livelink" : ""
     },
     {
         "versus": "Kasımpaşa",
         "league": "Süper Lig",
         "date": "17.05.2026",
-        "hour": "01:00"
+        "hour": "01:00",
+        "livelink" : ""
     }
+
 ]
