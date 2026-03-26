@@ -1,6 +1,12 @@
 {
   "games": [
     {
+      "name": "MP 26 TEST",
+      "image": "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp26.jpg",      
+      "status": "active",
+      "gameId": 7
+    },
+    {
       "name": "MP 26",
       "image": "https://raw.githubusercontent.com/LynxHera/launcher/refs/heads/main/mp26.jpg",      
       "status": "active",
