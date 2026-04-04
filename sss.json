@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "Question": "Mod Manager'da modlar siliniyor, her şeyi yeniden kurmak zorunda kalıyorum.",
+    "Answer": "Bu bir hata değildir. MP26 dosyaları şifreleri olduğundan dolayı Mod Manager'a elinizle girdiğinizde modlara ulaşamazsınız. Mellivora Launcher'dan \"Oyunu Başlat\" tuşuna tıklayarak Mod Manager'a girdiğinizde modlarınız orada olacak, sonrasında her defasında modlarınızı sağ tarafa atarak oyuna girebilirsiniz.",
+    "Images": []
+  },
+  {
+    "Id": 2,
+    "Question": "Formalar, kadrolar ve yüzler sorunlu; ne yapmalıyım?",
+    "Answer": "Kadro dosyanızı yüklediğinize emin olun, kadronuzu bir daha yükleyin ve kaydedin. (Detaylı ve videolu anlatım için Mellivora Patch Youtube kanalından kurulum videomuzu izleyebilirsiniz.) Kadro dosyası yüklemenize rağmen oyun içerisinde görüntüleyemiyorsanız bilinmeyen bağlantısındaki adımları uygulayınız.",
+    "Images": []
+  },
+  {
+    "Id": 3,
+    "Question": "Modumda sarı ünlem var, ne yapmalıyım?",
+    "Answer": "Sarı ünlem o modun güncel sürümle uyumlu olmadığını gösterir. Yüz ve grafik yamaları her sürümle uyumludur fakat bunların dışında bir mod ise modun güncel sürümünü indirmelisiniz. Eğer sarı ünlem aldığınız mod MP26 ise bizim güncellemeye uyumlu yeni sürüm çıkarmamızı beklemeli, çıkardıysak o sürümü launcherınızdan indirmeniz gerekmektedir.",
+    "Images": []
+  },
+  {
+    "Id": 4,
+    "Question": "MP26 ile Cheat Table çalışır mı?",
+    "Answer": "MP26 ile Cheat Table'ı çalıştırmak için Live Editor ve Cheat Table'ın en güncel sürümlerini indirmeli; önce Live Editor'u, sonrasında Cheat Table'ı açmalısınız. Live Editor açmadan Cheat Table'ı açtığınız takdirde hata alırsınız ve oyun kapanır.",
+    "Images": []
+  },
+  {
+    "Id": 5,
+    "Question": "Yamaya her zaman offline mı girmeliyim? Online oynayamaz mıyım?",
+    "Answer": "Yamayı offline oynamalısınız. Aksi halde oyuna gelebilecek güncellemeler yamanızı bozacaktır. Yama ile online oynamak EA hesabınızın banlanması riskini barındırmaktadır. Online oynamak istediğinizde (offline aktivasyon hesap kullanmıyorsanız) oyunu satın aldığınız platformdan (Steam/EA App) \"-dataPath FIFAModData\" kodunu sildikten sonra normal bir şekilde başlatabilirsiniz.",
+    "Images": []
+  },
+  {
+    "Id": 6,
+    "Question": "Yamaya güncelleme geldiğinde eski kariyerim bu güncellemeden etkilenir mi, güncellemeler kariyerime gelir mi, kariyerim silinir mi?",
+    "Answer": "Eğer kariyer dosyalarınız bozulmazsa veya silinmezse yeni güncellemelerde ayn kariyerden devam edebilirsiniz. Ayrıca yeni eklenen yüzler ve yeni transferler eski kariyerinize eklenmez. Fakat kadro güncellemeleri hariç tüm güncellemeler eski kariyerinize eklenir.",
+    "Images": []
+  },
+  {
+    "Id": 7,
+    "Question": "\"Bu kod başka bir bilgisayarda kullanılmıştır.\" uyarısı alıyorum, ne yapmalıyım?",
+    "Answer": "Eğer böyle bir durumla karşılaşıyorsanız, cmd'ye ipconfig/all yazıp çıkan sonuçları kopyala-yapıştır yaparak fifamellivorapatch@outlook.com adresimize durumunuzu ifade eden yazıyla beraber mail atınız. Mail attıktan sonra yetkililerimiz ile iletişime geçiniz.",
+    "Images": []
+  },
+  {
+    "Id": 8,
+    "Question": "Yeni bir bilgisayara geçtim mevcut kodumla ile giriş yapamıyorum, ne yapmalıyım?",
+    "Answer": "Sizlere en başta da belirttiğimiz gibi kodlarımız yalnızca tek bir bilgisayarda çalışmak için programlanmıştır. Böyle bir durumda yeni veya başka bir bilgisayar için yeniden satın alım yapmanız gerekmektedir.",
+    "Images": []
+  },
+  {
+    "Id": 9,
+    "Question": "Ana kartım değişti mevcut kodum ile giriş yapamıyorum, ne yapmalıyım?",
+    "Answer": "https://www.shopier.com/26788697 bağlantımızdan işlem yaptıktan sonra 7. maddedeki adımları takip etmelisiniz.",
+    "Images": []
+  },
+  {
+    "Id": 10,
+    "Question": "Kodumu kaybettim ne yapmalıyım?",
+    "Answer": "https://www.shopier.com/26788697 bağlantımızdan işlem yaptıktan sonra https://mellivoranetwork.com/FIFA/LosedCode/Index buradan talep oluşturmanız gerekmektedir.",
+    "Images": []
+  },
+  {
+    "Id": 11,
+    "Question": "Modu anlatıldığı şekilde kurdum ancak oyunum modsuz olarak başlıyor. MP26 aktif olmuyor ne yapmalıyım?",
+    "Answer": "1- Öncelikle oyunu satın aldığınız platformun FC 26 başlatma seçenekleri kısmına -dataPath FIFAModData kodunu yazdığınızdan emin olunuz. \n2- Live Editor'un son sürümünü kurduğunuzdan ve çalıştırdığınızdan emin olunuz.\nYukarıdaki adımları yaptığınızdan ve doğruluğundan eminseniz oyunun dosya konumunda bulunan FC26.exe dosyasına sağ tıklayıp Özellikler kısmının alt tarafında \"salt okunur\" kutucuğundaki işareti kaldırınız, ardından Uyumluluk sekmesinden \"Bu programı yönetici olarak çalıştır\" ifadesinin yanındaki kutucuktaki işareti kaldırınız. Olması gereken şablon ekteki gibidir.",
+    "Images": ["https://github.com/LynxHera/launcher/blob/main/kurulumimages/image.png?raw=true","https://github.com/LynxHera/launcher/blob/main/kurulumimages/image2.png?raw=true"]
+  },
+  {
+    "Id": 12,
+    "Question": "MP Launcher kütüphane kısmında MP26 ve diğer MP modlarım görünmüyor, ne yapmalıyım?",
+    "Answer": "Öncelikle MP Launcher'ı rar'dan klasöre ayıklayın. Ardından bilgisayarınızın Virüs ve Tehdit Koruması Ayarları kısmının en altında bulunan \"Dışlamalar\" sekmesine gidin ve ayıklanmış olan klasörü seçip, dışlamalara ekleyin. İşlemi tamamladıktan sonra MP Launcher'a yeniden giriş yapın. Sorununuz çözülmüş olacaktır.",
+    "Images": []
+  },
+  {
+    "Id": 13,
+    "Question": "Kadın takımları kısmına girdiğimde oyundan atıyor. Neden?",
+    "Answer": "Kadın takımları ve ligleri modumuzda aktif durumda değildir. O yüzden oyundan atma yapması normaldir. Kadın ligleri ve takımları kullanılamaz durumdadır. O sekmeye girmemeniz gerekmektedir.",
+    "Images": []
+  }
+]
