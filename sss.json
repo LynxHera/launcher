@@ -76,5 +76,18 @@
     "Question": "Kadın takımları kısmına girdiğimde oyundan atıyor. Neden?",
     "Answer": "Kadın takımları ve ligleri modumuzda aktif durumda değildir. O yüzden oyundan atma yapması normaldir. Kadın ligleri ve takımları kullanılamaz durumdadır. O sekmeye girmemeniz gerekmektedir.",
     "Images": []
+  },
+  {
+    "Id": 14,
+    "Question": "Oyunu açarken Live Editor 'Failed' hata veriyor, ne yapmalıyım?",
+    "Answer": "Öncelikle görsellerdeki gibi Mellivora Launcher'dan Sorun Giderici sekmesindeki Live Editor'ü Kaldır kısmında 'Tümünü Kaldır' demelisiniz. Ardından da Mellivora Launcher'dan Kütüphane - MP 26 kısmından 'İçeriği Gör' butonuna basıp gelen ekranda Live Editor'u indirmelisiniz ve ardından https://youtu.be/Bsjc02FLq6I MP26 LIVE EDITOR KURULUM videosundaki adımları uygulamalısınız.",
+    "Images": ["https://github.com/LynxHera/launcher/blob/main/kurulumimages/launcherimage1.png?raw=true","https://github.com/LynxHera/launcher/blob/main/kurulumimages/launcherimage2.png?raw=true","https://github.com/LynxHera/launcher/blob/main/kurulumimages/launcherimage3.png?raw=true"]
+  }
+  ,
+  {
+    "Id": 15,
+    "Question": "Modu anlatıldığı gibi kurdum ancak kariyerde alt lig takımlarını göremiyorum, ne yapmalıyım?",
+    "Answer": "Squad (Kadro) Dosyasını anlatıldığı gibi kurduğunuzdan emin olun. Eğer eminseniz:  https://youtu.be/Bsjc02FLq6I MP26 LIVE EDITOR KURULUM videosundaki adımları uygulayın ve modu videodaki gibi açın. Sorununuz çözülmüş olacaktır.",
+    "Images": []
   }
 ]
