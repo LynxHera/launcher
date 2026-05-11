@@ -82,12 +82,17 @@
     "Question": "Oyunu açarken Live Editor 'Failed' hata veriyor, ne yapmalıyım?",
     "Answer": "Öncelikle görsellerdeki gibi Mellivora Launcher'dan Sorun Giderici sekmesindeki Live Editor'ü Kaldır kısmında 'Tümünü Kaldır' demelisiniz. Ardından da Mellivora Launcher'dan Kütüphane - MP 26 kısmından 'İçeriği Gör' butonuna basıp gelen ekranda Live Editor'u indirmelisiniz ve ardından https://youtu.be/Bsjc02FLq6I MP26 LIVE EDITOR KURULUM videosundaki adımları uygulamalısınız.",
     "Images": ["https://github.com/LynxHera/launcher/blob/main/kurulumimages/launcherimage1.png?raw=true","https://github.com/LynxHera/launcher/blob/main/kurulumimages/launcherimage2.png?raw=true","https://github.com/LynxHera/launcher/blob/main/kurulumimages/launcherimage3.png?raw=true"]
-  }
-  ,
+  },
   {
     "Id": 15,
     "Question": "Modu anlatıldığı gibi kurdum ancak kariyerde alt lig takımlarını göremiyorum, ne yapmalıyım?",
     "Answer": "Squad (Kadro) Dosyasını anlatıldığı gibi kurduğunuzdan emin olun. Eğer eminseniz:  https://youtu.be/Bsjc02FLq6I MP26 LIVE EDITOR KURULUM videosundaki adımları uygulayın ve modu videodaki gibi açın. Sorununuz çözülmüş olacaktır.",
     "Images": []
+  },
+  {
+    "Id": 16,
+    "Question": "Eğer oyunu başlatırken görseldeki “Crash Report Handler / unexpected error” hatasını alıyorsanız, sorun oyun klasöründe bulunan cryptbase.dll dosyasından kaynaklanmaktadır",
+    "Answer": "Oyunun kurulu olduğu klasörde yer alan cryptbase.dll dosyasını sildikten sonra oyun sorunsuz şekilde açılmakta ve crash hatası düzelmektedir.",
+    "Images": ["https://github.com/LynxHera/launcher/blob/main/kurulumimages/crashreport.png?raw=true"]
   }
 ]
